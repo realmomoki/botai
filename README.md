@@ -4,9 +4,7 @@ Multi accounts and proxies
 
 ⬇️ Create folder and Download Script
 
-mkdir melodai && cd melodai
-
-wget 
+git clone https://github.com/realmomoki/botai.git
 
 npm install axios fs readline https-proxy-agent socks-proxy-agent
 
